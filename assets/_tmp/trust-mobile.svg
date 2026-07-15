@@ -1,0 +1,13 @@
+<svg preserveAspectRatio="none" width="100%" height="100%" overflow="visible" style="display: block;" viewBox="0 0 75 75" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame 38308">
+<circle id="Ellipse 448" cx="37.5" cy="37.5" r="37.5" fill="var(--fill-0, white)"/>
+<g id="fa-solid:mobile-alt" clip-path="url(#clip0_0_8)">
+<path id="Vector" d="M46.25 18H28.75C26.6797 18 25 19.6797 25 21.75V54.25C25 56.3203 26.6797 58 28.75 58H46.25C48.3203 58 50 56.3203 50 54.25V21.75C50 19.6797 48.3203 18 46.25 18ZM37.5 55.5C36.1172 55.5 35 54.3828 35 53C35 51.6172 36.1172 50.5 37.5 50.5C38.8828 50.5 40 51.6172 40 53C40 54.3828 38.8828 55.5 37.5 55.5ZM46.25 47.0625C46.25 47.5781 45.8281 48 45.3125 48H29.6875C29.1719 48 28.75 47.5781 28.75 47.0625V22.6875C28.75 22.1719 29.1719 21.75 29.6875 21.75H45.3125C45.8281 21.75 46.25 22.1719 46.25 22.6875V47.0625Z" fill="var(--fill-0, #0770AE)"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_8">
+<rect width="25" height="40" fill="white" transform="translate(25 18)"/>
+</clipPath>
+</defs>
+</svg>
